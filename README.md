@@ -12,8 +12,8 @@ Agency Theme by BlackTie.co: [Demo](http://blacktie.co/demo/link/) | [Homepage](
 
 ## Credits
 
-This Theme is a fork from [BlackTie](http://blacktie.co)'s free Dashboard
-Theme [Dashgum](http://blacktie.co/2014/07/dashgum-free-dashboard/)
+This Theme is a fork from [BlackTie](http://blacktie.co)'s free Agency
+Theme [Link](http://blacktie.co/demo/link/)
  
 It was released under Creative Commons Attribution 3.0 License and may
 be used for for private and business use.
