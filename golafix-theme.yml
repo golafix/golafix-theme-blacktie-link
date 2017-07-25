@@ -1,0 +1,4 @@
+version: 1
+
+tpl.page: =file(tpl/tpl.page.html)
+tpl.ce.mainImage: =file(tpl/tpl.ce.mainImage.html)

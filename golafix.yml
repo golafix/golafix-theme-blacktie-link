@@ -1,0 +1,7 @@
+version: "1"
+
+(include): golafix-theme.yml
+
+routes:
+  "":
+    target: demo/home.html
