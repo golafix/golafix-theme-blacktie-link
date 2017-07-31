@@ -1,0 +1,10 @@
+tpl#tpl.page:
+  title: "Tolle Seite - oder?"
+  content:
+    - tpl#tpl.ce.mainImage:
+      image: =asset(top.png)
+      content:
+        - html#h1: "Hello guy"
+        - html#h2: "I like this theme"
+
+
